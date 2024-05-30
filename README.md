@@ -13,7 +13,7 @@ Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature Submit a pull request
 
 ## History
-May 15th, 2024
+June 5th, 2024
 
 ## Credits
 Meghan Damen
