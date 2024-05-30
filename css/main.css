@@ -2,6 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(81, 81, 81);
 }
 
 .container {
@@ -14,24 +15,21 @@ body {
 
 .box {
     background-color: powderblue;
-    color: rgb(27, 27, 27);
-    border-radius: 5px;
-    padding: 20px;
+    color: rgb(123, 123, 123);
+    padding: 25px;
     text-align: center;
     margin-top: 10px;
     margin-bottom:10px;
 }
 
-.grid-con {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    grid-column-gap: 30px;
-    max-width: 767px;
-    margin: 0 auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.hero-image {
+    padding: 120px 0px;
 }
-  
-#hide {
-  display: none;
+
+.height-2 {
+    padding: 50px 0px;
+}
+
+.height-3 {
+    padding: 120px 0px;
 }
